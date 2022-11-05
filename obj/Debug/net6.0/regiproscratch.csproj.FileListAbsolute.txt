@@ -1,0 +1,5 @@
+/Users/andrewhudson/Documents/source/repos/regiproscratch/obj/Debug/net6.0/regiproscratch.csproj.AssemblyReference.cache
+/Users/andrewhudson/Documents/source/repos/regiproscratch/obj/Debug/net6.0/regiproscratch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewhudson/Documents/source/repos/regiproscratch/obj/Debug/net6.0/regiproscratch.AssemblyInfoInputs.cache
+/Users/andrewhudson/Documents/source/repos/regiproscratch/obj/Debug/net6.0/regiproscratch.AssemblyInfo.cs
+/Users/andrewhudson/Documents/source/repos/regiproscratch/obj/Debug/net6.0/regiproscratch.csproj.CoreCompileInputs.cache
