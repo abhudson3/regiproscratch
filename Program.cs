@@ -21,7 +21,42 @@ driver.Navigate().GoToUrl("https://ssb.ua.edu/pls/PROD/ua_bwckschd.p_disp_detail
 
 regChecker(toEmail, driver);
 
+//working registration code
+// System.Console.WriteLine("What is your mybama username?");
+// string mbUsername = Console.ReadLine();
+// System.Console.WriteLine("What is your mybama password?");
+// string mbPassword = Console.ReadLine();
+// driver.Navigate().GoToUrl("https://ssb.ua.edu/pls/PROD/bwskfreg.P_AltPin");
+// System.Threading.Thread.Sleep(3000);
+// driver.FindElement(By.Id("UserID")).SendKeys(mbUsername);
+// System.Threading.Thread.Sleep(500);
+// driver.FindElement(By.Id("PIN")).SendKeys(mbPassword);
+// driver.FindElement(By.XPath("/html/body/div[3]/form/p/input")).Click();
+// System.Threading.Thread.Sleep(500);
+// driver.Navigate().GoToUrl("https://ssb.ua.edu/pls/PROD/bwskfreg.P_AltPin");
+// driver.FindElement(By.XPath("/html/body/div[3]/form/input")).Click();
+// driver.FindElement(By.XPath("/html/body/div[3]/form/table[3]/tbody/tr[2]/td[1]/input[2]")).SendKeys(crnInput);//crn
+// Environment.Exit(0);
+// driver.Navigate().GoToUrl("https://ssb.ua.edu/pls/PROD/ua_bwckschd.p_disp_detail_sched?term_in=202310&crn_in=" + crnInput);
 
+// string menuReturn = "";
+// while(menuReturn != "-1"){
+//     System.Console.WriteLine(@"Welcome to RegiPro! Would you like for the program to register you for a class or notify you when it opens?
+//     1. Register for a class
+//     2. Notify me when a class opens
+//     3. Exit RegiPro");
+//     menuReturn = Console.ReadLine();
+//     if(menuReturn == "1")
+//     {
+//         Console.Clear();
+//         System.Console.WriteLine(@"Register for a class - Press the corresponding number to select an option:");
+//     }
+//     if(menuReturn == "2")
+//     {
+//         Console.Clear();
+
+//     }
+// }
 
 
 
